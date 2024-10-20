@@ -1,4 +1,4 @@
-f61a2b2fb881d987d97e9ae578ab2357 *DESCRIPTION
+7c0677b4b9c086c09536d699ee3970cd *DESCRIPTION
 44e53e676ee8251873f5bce1ae18e392 *NAMESPACE
 2b7378be701510a7625d188edc127bfa *R/AllClasses.R
 9ca7ffdd0b9c1e4e9d11e05ed74ad355 *R/AllImports.R
@@ -40,12 +40,12 @@ eb6540827a96b1617c07d5273044b489 *man/date2int.Rd
 1cb35e9398fa940eddc663339173e0cc *man/decoderawtransaction.Rd
 3d3b180b36b3d055597041b4f1acffa7 *man/decodescript.Rd
 32eca814bb36833ee41f797b96c6c1c4 *man/disconnectnode.Rd
-2cfb0d095eef34143994b1e206d37eec *man/ecoperators-methods.Rd
+b67af339ab3fe4e925c73f7b126d35fc *man/ecoperators-methods.Rd
 11188d119626a58680f1d278e584fbfa *man/ecparam.Rd
 be920bad368bb077b861352d5b67177a *man/ecpoint.Rd
 9e3a407850a5581ec8c04d69b5cd51e8 *man/getaddednodeinfo.Rd
 de8a9fbca20647c57e9bf20d02748b44 *man/getbestblockhash.Rd
-422f36a58ea07e0c336654bd4636aaf0 *man/getblock.Rd
+e29cd72f89a7325562dc15a86d1ea6be *man/getblock.Rd
 2710259edd87eeb3474a9ebd33820a8b *man/getblockchaininfo.Rd
 81f798affa59665e337be80e9b37bf51 *man/getblockcount.Rd
 114374e797375cdf6431fd227a991c80 *man/getblockhash.Rd
@@ -64,7 +64,7 @@ e45e67e53deb85f692561e7a97ff6932 *man/getnettotals.Rd
 0d73e691f5b68602c73898680911de31 *man/getnetworkinfo.Rd
 c957e1d05d41be6038ab8363ed3170f5 *man/getpeerinfo.Rd
 4f77b71f25c272763c0207269d7bb318 *man/getrawmempool.Rd
-97781b4c8648f0261c5fb65b3515afc2 *man/getrawtransaction.Rd
+6422ef3b917802ab97ade54b0b56cb99 *man/getrawtransaction.Rd
 c06a14871141519160ff32581d9c2fad *man/gettxout.Rd
 f72b918aa8b60fd35f971ad0f3e93c58 *man/gettxoutproof.Rd
 a41e5b6556a0ab4431f0c1f3f43d2452 *man/gettxoutsetinfo.Rd
